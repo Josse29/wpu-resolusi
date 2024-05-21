@@ -1,6 +1,7 @@
 rencana konten
 video javascript 
 es6, framework react 
+fundamental data structure 
 video php framework 
 interview 
 vlog 
