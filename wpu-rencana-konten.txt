@@ -1,7 +1,9 @@
 rencana konten
 video javascript 
 es6, framework react 
+angulars,svelte
 fundamental data structure 
 video php framework 
+laract 
 interview 
 vlog 
