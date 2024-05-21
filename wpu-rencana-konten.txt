@@ -1,5 +1,6 @@
 rencana konten
 video javascript 
+es6, framework react 
 video php framework 
 interview 
 vlog 
