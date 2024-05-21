@@ -1,7 +1,10 @@
 rencana konten
 video javascript 
 es6, framework react 
+vue 
 fundamental data structure 
 video php framework 
+laravel 
 interview 
 vlog 
+python 
